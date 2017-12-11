@@ -1,5 +1,21 @@
 # Change Log
 
+Version 1.0.2 *(2017-08-15)*
+----------------------------
+
+* Fix stop animation issue when view is not yet measured
+
+Version 1.0.1 *(2017-08-12)*
+----------------------------
+
+* Fix shimmer width issue
+
+Version 1.0.0 *(2017-08-03)*
+----------------------------
+
+* Fix mask size issue
+* Add shimmer rotation feature
+
 Version 0.8.0 *(2017-07-31)*
 ----------------------------
 
